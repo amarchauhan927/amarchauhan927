@@ -151,10 +151,10 @@ Ongoing experiments across machine learning models and applied AI use cases.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/amar-chauhan-4966a338b/">
 <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<a href="https://instagram.com/amarchauhan.927">
 <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:your.email@gmail.com">
