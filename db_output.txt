@@ -1,0 +1,31 @@
+============================================================
+  ORDERS TABLE
+============================================================
+  Order #2  |  John Smith  |  john@example.com
+          City: New York, United States
+          Total: $378.99  |  Status: pending
+          Placed: 2026-04-08 23:22:54
+
+  Order #1  |  123456  |  2yu56@gmail.com
+          City: sdfghj, Germany
+          Total: $249.00  |  Status: pending
+          Placed: 2026-04-08 23:21:30
+
+============================================================
+  ORDER_ITEMS TABLE
+============================================================
+  Item #2  |  Order #2  |  Wireless Noise-Cancelling Headphones
+          $129.99 x 1 = $129.99
+
+  Item #3  |  Order #2  |  Minimalist Leather Watch
+          $249.00 x 1 = $249.00
+
+  Item #1  |  Order #1  |  Minimalist Leather Watch
+          $249.00 x 1 = $249.00
+
+============================================================
+  CART TABLE (current state)
+============================================================
+  cart_id #4  |  Wireless Noise-Cancelling Headphones  x1
+  cart_id #5  |  Minimalist Leather Watch  x1
+  cart_id #6  |  Portable Bluetooth Speaker  x1
