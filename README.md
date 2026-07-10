@@ -157,13 +157,6 @@ Ongoing experiments across machine learning models and applied AI use cases.
 <a href="https://instagram.com/amarchauhan.927">
 <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
